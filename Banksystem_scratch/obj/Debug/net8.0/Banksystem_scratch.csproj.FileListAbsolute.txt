@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\Banksystem_scratch\Banksystem_scratch\obj\Debug\net8.0\Banksystem_scratch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Banksystem_scratch\Banksystem_scratch\obj\Debug\net8.0\Banksystem_scratch.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Banksystem_scratch\Banksystem_scratch\obj\Debug\net8.0\Banksystem_scratch.AssemblyInfo.cs
+C:\Users\user\source\repos\Banksystem_scratch\Banksystem_scratch\obj\Debug\net8.0\Banksystem_scratch.csproj.CoreCompileInputs.cache
