@@ -21,13 +21,43 @@ class Bank
     }
     public void Deposit(BankAccount Acc)
     {
-        int m_d = Convert.ToInt32(Console.ReadLine());
-        Acc.balance += m_d;
+        Console.WriteLine("Enter amount to deposit:");
+        string m_d = Console.ReadLine();
+        int amount;
+
+        if (int.TryParse(m_d, out amount) && amount > 0)
+        {
+            Acc.balance += amount;
+            Console.WriteLine($"Deposited {amount}. New balance: {Acc.balance}");
+        }
+        else 
+        {
+            Console.WriteLine("Invalid input. Please enter a positive number.");
+        }
     }
-    public void PayOut(BankAccount Acc)
+    public void Withdraw(BankAccount Acc)
     {
-        int m_o = Convert.ToInt32(Console.ReadLine());
-        Acc.balance -= m_o;
+        string m_w = Console.ReadLine();
+        int amount;
+
+        if (int.TryParse(m_w, out amount) && amount > 0)
+        {
+            if (Acc.balance >= amount)
+            {
+                Acc.balance -= amount;
+                Console.WriteLine($"You withdrew {amount}. New balance: {Acc.balance}");
+            }
+            else
+            {
+                Console.WriteLine("Insufficient funds.");
+            }
+            
+        }
+        else 
+        {
+            Console.WriteLine("Invalid input. Please enter a positive number.");
+        }
+        
     }
 
     public void CreateAccount()
@@ -101,7 +131,7 @@ class Bank
                         Deposit(Acc);
                         break;
                     case "3":
-                        PayOut(Acc);
+                        Withdraw(Acc);
                         break;
                     case "4":
                         return;
