@@ -37,6 +37,7 @@ class Bank
     }
     public void Withdraw(BankAccount Acc)
     {
+        Console.WriteLine("Enter amount to withdraw:");
         string m_w = Console.ReadLine();
         int amount;
 
