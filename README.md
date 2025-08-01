@@ -19,3 +19,11 @@ This project demonstrates basic concepts of:
 
     Loops, conditionals, and user input via the console
 
+
+Planned improvements (optional, educational):
+
+    Input validation (e.g. using TryParse)
+    
+    Cleaner code structure (separation of concerns)
+
+    Saving accounts to files or loading from files
