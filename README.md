@@ -19,4 +19,3 @@ This project demonstrates basic concepts of:
 
     Loops, conditionals, and user input via the console
 
-Features like input validation using TryParse, better separation of concerns, and file persistence may be added in the next version.
