@@ -2,3 +2,14 @@ C:\Users\user\source\repos\Banksystem_scratch\Banksystem_scratch\obj\Debug\net8.
 C:\Users\user\source\repos\Banksystem_scratch\Banksystem_scratch\obj\Debug\net8.0\Banksystem_scratch.AssemblyInfoInputs.cache
 C:\Users\user\source\repos\Banksystem_scratch\Banksystem_scratch\obj\Debug\net8.0\Banksystem_scratch.AssemblyInfo.cs
 C:\Users\user\source\repos\Banksystem_scratch\Banksystem_scratch\obj\Debug\net8.0\Banksystem_scratch.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Banksystem_scratch\Banksystem_scratch\bin\Debug\net8.0\Banksystem_scratch.exe
+C:\Users\user\source\repos\Banksystem_scratch\Banksystem_scratch\bin\Debug\net8.0\Banksystem_scratch.deps.json
+C:\Users\user\source\repos\Banksystem_scratch\Banksystem_scratch\bin\Debug\net8.0\Banksystem_scratch.runtimeconfig.json
+C:\Users\user\source\repos\Banksystem_scratch\Banksystem_scratch\bin\Debug\net8.0\Banksystem_scratch.dll
+C:\Users\user\source\repos\Banksystem_scratch\Banksystem_scratch\bin\Debug\net8.0\Banksystem_scratch.pdb
+C:\Users\user\source\repos\Banksystem_scratch\Banksystem_scratch\obj\Debug\net8.0\Banksystem_scratch.sourcelink.json
+C:\Users\user\source\repos\Banksystem_scratch\Banksystem_scratch\obj\Debug\net8.0\Banksystem_scratch.dll
+C:\Users\user\source\repos\Banksystem_scratch\Banksystem_scratch\obj\Debug\net8.0\refint\Banksystem_scratch.dll
+C:\Users\user\source\repos\Banksystem_scratch\Banksystem_scratch\obj\Debug\net8.0\Banksystem_scratch.pdb
+C:\Users\user\source\repos\Banksystem_scratch\Banksystem_scratch\obj\Debug\net8.0\Banksystem_scratch.genruntimeconfig.cache
+C:\Users\user\source\repos\Banksystem_scratch\Banksystem_scratch\obj\Debug\net8.0\ref\Banksystem_scratch.dll
